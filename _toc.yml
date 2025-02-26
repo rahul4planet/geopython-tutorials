@@ -34,4 +34,5 @@ parts:
     - caption: Web APIs
       chapters:
           - file: notebooks/ors_distance_matrix.ipynb
+          - file: notebooks/openai_mapping_news_articles.ipynb
      
