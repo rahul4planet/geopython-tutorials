@@ -23,6 +23,7 @@ parts:
     - caption: Dask
       chapters:
           - file: notebooks/dask_creating_spatial_data.ipynb
+          - file: notebooks/dask_median_composite.ipynb
     - caption: XEE (XArray + Google Earth Engine)
       chapters:
           - file: notebooks/xee_ic_to_netcdf.ipynb    
