@@ -23,3 +23,16 @@ conda install make
 pip install -r requirements.txt
 ```
 
+## Updating the Contents
+
+The homepage content is in the file `introduction.md`. All other content is generated from the `.ipynb` files in the `notebook` folder. The table of content is in the `_toc.yml` file.
+
+### Editing existing tutorials
+
+* Edit the notebook using Jupyterlab/Colab.
+
+### Adding a new tutorial
+
+* Add the `.ipynb` file in the `notebook/` folder.
+* Edit the `_toc.yml` file and add the section for the new tutorial.
+  
