@@ -1,6 +1,5 @@
 # Geospatial Python Tutorials
 
-This repository contains the notebooks and Jupyterbook configuration for the [Geospatial Python Tutorials](https://www.geopythontutorials.com/) website.
 
 The website is a static website generated using the following technologies
 
